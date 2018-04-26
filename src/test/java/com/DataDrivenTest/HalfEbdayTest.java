@@ -1,4 +1,4 @@
-package com.DataDrivenTesting;
+package com.DataDrivenTest;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -13,7 +13,7 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
-import com.test.utility.TestUtil;
+import com.utility.TestUtil;
 
 public class HalfEbdayTest {
 	

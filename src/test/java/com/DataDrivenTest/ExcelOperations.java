@@ -1,4 +1,4 @@
-package com.DataDrivenTesting;
+package com.DataDrivenTest;
 
 import com.excel.utility.Xls_Reader;
 
